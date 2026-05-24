@@ -1,8 +1,8 @@
 # Rentabilidad anormal y eficiencia de mercado: un análisis empírico del CAPM aplicado a Sterling Infrastructure, Inc. (STRL)
 
 **Javier González Marín**
-Universidad: CUNEF Universidad
-Trabajo de Fin de Grado — Curso 2025/2026
+|Universidad: CUNEF Universidad
+|Trabajo de Fin de Grado — Curso 2025/2026
 
 ## Descripción
 
